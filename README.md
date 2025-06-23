@@ -1,2 +1,2 @@
-# Hospital-Mangement
+# Hospital-Management
 .NetFramworkProject/EntityFramwork/Winform
